@@ -1,0 +1,1 @@
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/05f3cda58e74d8e44304173dfd762feb/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
