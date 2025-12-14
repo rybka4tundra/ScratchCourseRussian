@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
   iframe {
     border-radius: 16px;     /* Rounded corners */
@@ -9,4 +10,4 @@
 </style>
 
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/79a8a45a1cc319b76374c19bc739dcb3/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/9694a299e2cd54af4f57b0a219902e2b/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
