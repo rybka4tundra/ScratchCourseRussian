@@ -40,9 +40,9 @@
 
 ## 📋 Список заданий
 
-1. 🖥️ [ДЗ 1 - Введение в Scratch](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw1-scratch-intro.md)
-2. 🐱 [ДЗ 2 - Основы работы со спрайтами](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw2-sprites-basics.md) 
-3. ⚡ [ДЗ 3 - Работа с событиями](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw3-events-handling.md)
+1. 🖥️ [ДЗ 1 - Введение в Scratch](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw1-scratch-intro)
+2. 🐱 [ДЗ 2 - Основы работы со спрайтами](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw2-sprites-basics) 
+3. ⚡ [ДЗ 3 - Работа с событиями](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw3-events-handling)
 4. 🔄 [ДЗ 4 - Введение в циклы и условия](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw4-loops-conditions.md)
 5. 🚶‍♂️ [ДЗ 5 - Управление движениями](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw5-motion-control.md)
 6. 📊 [ДЗ 6 - Работа с переменными](https://rybka4tundra.github.io/ScratchCourseRussian/src/Practice/hw6-variables-work.md)
